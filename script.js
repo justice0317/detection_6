@@ -26,5 +26,5 @@ overlay.addEventListener('click', () => {
 
 // 按鈕跳轉功能
 nextButton.addEventListener('click', () => {
-    window.location.href = 'upload.html';
+    window.location.href = 'https://aibadminton-6.vercel.app/';
 });
